@@ -1,0 +1,41 @@
+{
+  "name": "setup-icon-ituaja",
+  "version": "1.0.2",
+  "main": "index.js",
+  "bin": {
+    "setup-icon-ituaja": "./bin/cli.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "icon",
+    "app-icon",
+    "android",
+    "ios",
+    "cli",
+    "tool",
+    "setup",
+    "assets",
+    "mobile",
+    "automation",
+    "png",
+    "setup icon apps",
+    "setup icon",
+    "icon apps",
+    "apps icon",
+    "Android & iOS",
+    "React Native CLI",
+    "image"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple CLI tool to automatically set your Android & iOS app icons in React Native projects from a single Image asset. No more manual resizing. Just run one command!",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "sharp": "^0.34.2",
+    "yargs": "^17.7.2"
+  }
+}
