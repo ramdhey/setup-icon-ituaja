@@ -1,6 +1,6 @@
 {
   "name": "setup-icon-ituaja",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "main": "index.js",
   "bin": {
     "setup-icon-ituaja": "./bin/cli.js"
