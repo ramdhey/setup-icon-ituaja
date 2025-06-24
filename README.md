@@ -1,4 +1,4 @@
-# setup-icon-ituaja
+# Library Setup Icon App React Native
 
 A simple CLI tool to automatically set your Android & iOS app icons in React Native projects from a single PNG asset.  
 No more manual resizing. Just run one command!
